@@ -1,0 +1,6 @@
+"# codeigniter-helpers" 
+"# numero_extenso_codeigniter" 
+"# numero_extenso_codeigniter" 
+"# numero_extenso_ci" 
+"# numero_extenso_ci" 
+"# numero_extenso_ci" 
